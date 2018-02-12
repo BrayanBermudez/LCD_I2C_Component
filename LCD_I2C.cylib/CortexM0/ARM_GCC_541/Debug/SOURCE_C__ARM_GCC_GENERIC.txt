@@ -1,0 +1,1 @@
+'C:\Users\Xwx47\Documents\Creator\bryan_bootloader\lcd_i2c\LCD_I2C_PSoC5LP\LCD_I2C.cylib\LCD_I2C_v0_1\API\LL_I2C.c' -o .o -T SOURCE_C__ARM_GCC_GENERIC -f 'C:\Users\Xwx47\Documents\Creator\bryan_bootloader\lcd_i2c\LCD_I2C_PSoC5LP\LCD_I2C.cylib\CortexM0\ARM_GCC_541\Debug\.deps\SOURCE_C__ARM_GCC_GENERIC.d'
